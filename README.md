@@ -3,4 +3,4 @@
 
 Aprendendo a gerenciar repositórios.
 
-<a href="https://lhenriquespt.github.io/html-css/projeto-android/index.html">Site</a>
+<a href="https://lhenriquespt.github.io/html-css/projeto-android/index.html" target="_blank">Projeto Android</a>
